@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Laboratorio05</string>
+    <string name="desviacion">Desviaciones</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="finalizar">Finalizar!</string>
+    <string name="trabajando">Trabajando....</string>
+    <string name="trabajar">Trabajar...</string>
+
+    <string name="warningDesc">Ingrese DESCRIPCIÓN de la Tarea</string>
+    <string name="warningHoras">Ingrese HORAS ESTIMADAS de TRABAJO</string>
+    <string name="warningConfirmar">¿Confirma dar ALTA?:</string>
+
+</resources>

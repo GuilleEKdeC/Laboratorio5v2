@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Desea continuar con la acción de Borrar?"
+        android:visible="true" />
+    <item android:title="ACEPTAR"
+        android:titleCondensed="dfsdfsdf"
+        android:visible="true"
+        android:id="@+id/it_aceptar" />
+    <item android:title="CANCELAR"
+        android:id="@+id/it_cancelar" />
+</menu>
